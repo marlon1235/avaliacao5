@@ -1,0 +1,45 @@
+```css
+body {
+    font-family: Arial;
+    background-color: #f1f5f9;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #0f766e;
+}
+
+.caixa {
+    background: white;
+    max-width: 500px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+input {
+    padding: 12px;
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 12px;
+    background-color: #0f766e;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #115e59;
+}
+
+#resultado {
+    color: #0f766e;
+}
+```
